@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itspawanhere
-- 👀 I’m interested in programming, software development, reading books, cricket. 
-- 🌱 I’m currently learning about linux kernels. 
+- 👀 I’m interested in programming, software development, reading books. 
+- 🌱 I’m currently learning about big data systems. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @itspawanhere on twitter. 
 
